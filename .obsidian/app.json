@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "files",
+  "userIgnoreFilters": [
+    "files/",
+    "periodic/templates/",
+    "templates/",
+    "Excalidraw/"
+  ]
+}
